@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SahilB2k,Newbie in coding.
-- 👀 I’m interested in coding and recently i am exploring various technologies.
-- 🌱 I’m currently learning javascript and creating projects related to it.
+- 👋 Hi, I’m @SahilB2k.
+- 👀 I’m interested in coding and recently i am working on Machine Learning.
+- 🌱 I’m currently learning ML Algorithms and creating projects related to it.
 - 💞️ I’m looking to collaborate on Basic Projects.
 - 📫 My Instagram Handle is @_.sahil4565_
 - 😄 Pronouns: ...
