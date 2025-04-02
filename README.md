@@ -27,9 +27,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SahilB2k&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 </div>
 
-## 🔥 GitHub Contributions
+## 📊 GitHub Activity
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SahilB2k/SahilB2k/output/github-contribution-grid-snake.svg" alt="Contribution Grid" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SahilB2k&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SahilB2k&theme=radical" />
 </div>
 
 ## 💻 Most Used Languages
