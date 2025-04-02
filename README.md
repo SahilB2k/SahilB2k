@@ -27,9 +27,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SahilB2k&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 </div>
 
-## 🔥 Streak Stats
+## 🔥 GitHub Contributions
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SahilB2k&theme=radical" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/SahilB2k/SahilB2k/output/github-contribution-grid-snake.svg" alt="Contribution Grid" />
 </div>
 
 ## 💻 Most Used Languages
