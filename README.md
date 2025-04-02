@@ -8,6 +8,7 @@
 - 🔭 I'm currently working on a Forgery Detection Model using Deep Learning techniques
 - 🌱 I'm currently learning Generative Adversarial Networks (GANs) for image synthesis and manipulation
 - 👯 I'm looking to collaborate on beginner-friendly Firebase-based projects
+- 💬 Ask me about image processing, computer vision, or getting started with web development
 - 📫 How to reach me: jadhavssahil@gmail.com
 - ⚡ Fun fact: I can debug code faster after midnight than during normal working hours
 
@@ -26,18 +27,20 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SahilB2k&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 </div>
 
-## 🔥 GitHub Streak
+## 🔥 Streak Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=SahilB2k&theme=dark&hide_border=true" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=SahilB2k&theme=radical" />
 </div>
 
-## 📊 Most Used Languages
+## 💻 Most Used Languages
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilB2k&layout=compact&langs_count=8&theme=radical" />
 </div>
 
 ## 📈 Contribution Graph
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SahilB2k&theme=radical" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SahilB2k&theme=radical" />
+</div>
 
 ## 🔝 Top Repositories
 <div align="center">
@@ -51,7 +54,7 @@
 
 ## 🤝 Connect with Me
 <div align="center">
-  <a href="https://linkedin.com/in/sahil jadhav">
+  <a href="https://linkedin.com/in/sahil-jadhav">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="mailto:jadhavssahil@gmail.com">
