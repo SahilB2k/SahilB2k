@@ -24,9 +24,14 @@
 ## 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SahilB2k&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SahilB2k&theme=radical" />
 </div>
 
+## 🔥 GitHub Streak
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=SahilB2k&theme=dark&hide_border=true" />
+</div>
+
+## 📊 Most Used Languages
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilB2k&layout=compact&langs_count=8&theme=radical" />
 </div>
@@ -53,8 +58,8 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
   <a href="https://instagram.com/_.sahil4565_">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
 </div>
 
 ## 👀 Profile Views
