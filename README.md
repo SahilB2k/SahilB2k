@@ -1,6 +1,6 @@
 # Hi there, I'm Sahil Jadhav 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&separator=%3C&lines=function+developer()%7B+while(true)%7B%3Ccode();+learn();+debug();+sleep();%3C+%7D%7D+developer()" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=90&separator=%3C&lines=function+developer()%7B+while(true)%7B%3Ccode();+learn();+debug();+sleep();%3C%7D%7D+developer()" alt="Typing SVG" /></a>
 
 ## 🚀 About Me
 - 🔭 I'm currently working on a Forgery Detection Model using Deep Learning techniques
