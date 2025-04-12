@@ -4,8 +4,7 @@
 
 ## 🚀 About Me
 - 🔭 I'm currently working on a Forgery Detection Model using Deep Learning techniques
-- 🌱 I'm currently learning Generative Adversarial Networks (GANs) for image synthesis and manipulation
-- 👯 I'm looking to collaborate on beginner-friendly Firebase-based projects
+- 🌱 I'm currently exploring AWS functionality and its Services
 - 💬 Ask me about image processing, computer vision, or getting started with web development
 - 📫 How to reach me: jadhavssahil@gmail.com
 - ⚡ Fun fact: I can debug code faster after midnight than during normal working hours
