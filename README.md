@@ -1,7 +1,7 @@
 # Hi there, I'm Sahil Jadhav 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=function+developer(){+while(true){+code();+learn();+debug();+sleep();+}}+developer();&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=class+SahilJadhav+%7B;++constructor()+%7B;++++this.skills+%3D+%5B'AI'%2C+'CV'%2C+'Web+Dev'%5D;++++this.focus+%3D+'Image+Forgery+Detection';++%7D;++innovate()+%7B+return+true%3B+%7D;%7D;&font=JetBrains%20Mono&center=true&width=600&height=45&color=36BCF7&vCenter=true&size=20&background=00000000">
 </div>
 
 ## 🚀 About Me
