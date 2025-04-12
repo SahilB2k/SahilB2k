@@ -1,6 +1,6 @@
 # Hi there, I'm Sahil Jadhav 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&duration=2000&pause=00&center=true&width=435&height=178&separator=%3C&lines=code();+%3Clearn();%3Cdebug();%3Ceat();++%3Csleep();++" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&duration=2000&pause=00&center=true&width=435&height=100&separator=%3C&lines=code();+%3Clearn();%3Cdebug();%3Ceat();++%3Csleep();++" alt="Typing SVG" /></a>
 
 ## 🚀 About Me
 - 🔭 I'm currently working on a Forgery Detection Model using Deep Learning techniques
@@ -22,13 +22,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SahilB2k&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-</div>
-
-## 📊 GitHub Activity
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SahilB2k&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SahilB2k&theme=radical" />
 </div>
 
 ## 💻 Most Used Languages
